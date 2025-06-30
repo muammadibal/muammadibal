@@ -19,7 +19,7 @@ Got an interesting project or idea? I’m open to freelance collaborations and o
 #### 📫  Reach Me
 - **Portfolio:** [muammadibal.vercel.app](https://muammadibal.vercel.app)  
 - **LinkedIn:** [linkedin.com/in/ibal](https://www.linkedin.com/in/ibal)  
-- **Email:** hi.muammadibal@gmail.com  
+- **Email:** muammadibal@gmail.com  
 
 ---
 
