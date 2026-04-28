@@ -32,9 +32,3 @@ Got an interesting project or idea? I’m open to freelance collaborations and o
 - **Portfolio:** [muammadibal.vercel.app](https://muammadibal.vercel.app)  
 - **LinkedIn:** [linkedin.com/in/ibal](https://www.linkedin.com/in/ibal)  
 - **Email:** muammadibal@gmail.com  
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/muammadibal/count.svg)
-
-</div>
