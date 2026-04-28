@@ -6,11 +6,11 @@ I’m **Iqbal** – a **frontend-focused full-stack developer** who loves turnin
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muammadiqbal&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muammadibal&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muammadiqbal&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muammadibal&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muammadiqbal&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muammadibal&theme=dark&hide_border=true)
 
 </div>
 
