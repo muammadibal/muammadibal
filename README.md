@@ -35,6 +35,6 @@ Got an interesting project or idea? I’m open to freelance collaborations and o
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/muammadiqbal/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/muammadibal/count.svg)
 
 </div>
