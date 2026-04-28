@@ -1,0 +1,125 @@
+# GitHub Profile Configuration
+profile:
+  name: Iqbal
+  username: muammadibal
+  location: Jakarta, Indonesia
+  timezone: Asia/Jakarta
+  
+about:
+  title: Software Engineer
+  company: Ursawhite LLC
+  experience: 5+ years
+  bio: |
+    I am a Frontend Engineer and Software Engineer with expertise in React.js, React Native, JavaScript (ES6+), and TypeScript, focused on building responsive, scalable, and user-friendly applications. My primary strength is frontend development—designing polished interfaces, optimizing performance, and delivering great user experiences—but I also bring fullstack capabilities with Node.js, Express.js, and MongoDB. 
+    
+    Over the past few years, I have worked on diverse projects including multilingual education platforms, HR management systems, CRM solutions, barbershop dispatch apps, and B2B banking integrations. I enjoy solving complex problems with clean, maintainable code, collaborating across teams, and shipping products that create real impact for users.
+
+skills:
+  languages:
+    - JavaScript
+    - TypeScript
+    - PHP
+    - Dart
+  
+  frontend:
+    - ReactJS
+    - Next.js
+    - React Native
+    - Flutter
+  
+  backend:
+    - Node.js
+    - ExpressJS
+    - Laravel
+  
+  ai_tools:
+    - Cursor
+    - GitHub Copilot
+    - Claude Code
+  
+  ai_frameworks:
+    - Vercel AI SDK
+    - Openrouter
+  
+  databases:
+    - MySQL
+    - PostgreSQL
+    - MongoDB
+    - Firebase
+  
+  tools:
+    - Git
+    - Docker
+    - VS Code
+
+current_focus:
+  - title: AI-Assisted Development
+    description: Staying relevant as a developer in the AI era
+    tools:
+      - Cursor
+      - GitHub Copilot
+      - Claude Code
+  
+  - title: LLM Integration
+    description: Integrating AI capabilities into applications
+    frameworks:
+      - Vercel AI SDK
+      - Openrouter
+
+# projects:
+#   - name: Multi-Agent QA Pipeline
+#     description: Automated QA-to-fix system coordinated by Orchestrator Agent
+#     tech_stack:
+#       - Claude Code
+#       - AI Agents
+#       - Automation
+#     status: In Development
+  
+  # - name: Nova Creative Agency
+  #   description: Creative advertising agency
+  #   role: Owner
+  #   services:
+  #     - Advertising
+  #     - Creative Design
+  #     - Marketing Solutions
+  #   status: Active
+
+interests:
+  technical:
+    - AI & Machine Learning
+    - Developer Tools
+    - Automation
+    - Full Stack Development
+  
+  # business:
+  #   - Agency Management
+  #   - Client Relations
+  #   - Creative Services
+
+social:
+  github: https://github.com/yourusername
+  linkedin: https://linkedin.com/in/yourprofile
+  twitter: https://twitter.com/yourhandle
+  website: https://novacreativeagency.com
+  email: your.email@example.com
+
+stats:
+  years_of_experience: 5
+  primary_language: JavaScript
+  specialization: Full Stack Web Development
+  current_role: Developer & Entrepreneur
+
+languages_spoken:
+  - Bahasa Indonesia (Native)
+  - English (Professional)
+
+available_for:
+  - Freelance Projects
+  - Collaboration
+  - Consulting
+  - Open Source Contributions
+
+work_preferences:
+  remote: true
+  hybrid: true
+  timezone_flexible: true
